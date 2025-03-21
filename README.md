@@ -12,8 +12,7 @@ Welcome to my portfolio website!
 
 ## Technologies Used
 - HTML, CSS, JavaScript
-- Custom animations and effects  
-- GitHub Pages for hosting  
+- Custom animations and effects
 
 ## Contact
 📧 **Email:** arvind.m26@outlook.com  
